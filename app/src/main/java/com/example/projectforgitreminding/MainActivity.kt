@@ -12,5 +12,9 @@ class MainActivity : AppCompatActivity() {
         print("Im here!")
    print("Im here!")
         print("I wanna add this line by merging to master branch!")
+        print("I wanna add this line by merging to master branch!")
+        print("I wanna add this line by merging to master branch!")
+        print("I wanna add this line by merging to master branch!")
+        print("I wanna add this line by merging to master branch!")
     }
 }
