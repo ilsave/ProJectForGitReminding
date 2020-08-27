@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
    print("Im here!")
+        print("I wanna add this line by merging to master branch!")
     }
 }
