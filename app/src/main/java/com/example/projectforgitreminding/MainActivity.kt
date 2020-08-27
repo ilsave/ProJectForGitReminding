@@ -14,5 +14,6 @@ class MainActivity : AppCompatActivity() {
 hey im on NewBranch here !
 
         !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+                println("This line will be merged!")
     }
 }
